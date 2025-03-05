@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\repositories\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\repositories\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\admin\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\admin\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\migrations\\20250304022911_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\migrations\\20250304022911_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|c:\\users\\minh tri\\source\\12_vominhtri_ltw3\\12_vominhtri_ltw3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9E943-8A26-4C1F-AD9E-B060E3CCA2C3}|12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3.csproj|solutionrelative:12_vominhtri_ltw3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-05T05:47:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:47:38.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:47:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:56:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Program.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Program.cs*",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:26:47.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:32:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:45:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\EmailSender.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\EmailSender.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\EmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:29:27.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:56:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:17:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwLcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:36:01.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:14:58.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T02:35:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\appsettings.json",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\appsettings.json",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T03:25:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T03:06:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\ProductController.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Repositories\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\ProductController.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Repositories\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:39:59.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Admin\\Add.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Admin\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Admin\\Add.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Admin\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T03:08:17.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T02:41:16.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Admin\\SD.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Admin\\SD.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Admin\\SD.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Admin\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:50:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250304022911_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Migrations\\20250304022911_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Migrations\\20250304022911_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Migrations\\20250304022911_ExtendIdentityUser.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Migrations\\20250304022911_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:29:11.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:32:13.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:27:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T13:56:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvycAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T03:07:11.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T13:54:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:43:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:45:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:33:54.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\Product.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:31:55.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T14:07:13.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:47:00.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:30:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:31:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Models\\Category.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:25:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "12_VoMinhTri_LTW3\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Minh Tri\\source\\12_VoMinhTri_LTW3\\12_VoMinhTri_LTW3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "12_VoMinhTri_LTW3\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:31:25.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

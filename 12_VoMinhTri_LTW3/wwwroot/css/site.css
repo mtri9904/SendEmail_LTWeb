@@ -1,0 +1,87 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+}
+
+footer {
+    text-align: left;
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+.product-name {
+    font-size: 1.4rem; /* Nhỏ hơn H2 nhưng không quá bé */
+    font-weight: bold; /* In đậm */
+}
+:root {
+    --background-light: #ffffff;
+    --text-light: #000000;
+    --background-dark: #121212;
+    --text-dark: #ffffff;
+}
+
+/* Mặc định Light Mode */
+body {
+    background-color: var(--background-light);
+    color: var(--text-light);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    /* Dark Mode */
+    body.dark-mode {
+        background-color: var(--background-dark);
+        color: var(--text-dark);
+    }
+
+/* Mặc định Light Mode */
+.table th, .table td {
+    color: #000; /* Màu chữ đen khi ở chế độ sáng */
+}
+
+/* Dark Mode */
+body.dark-mode .table {
+    background-color: #1e1e1e; /* Nền tối hơn */
+}
+
+    body.dark-mode .table th,
+    body.dark-mode .table td {
+        color: #e0e0e0; /* Màu chữ xám sáng để nổi bật trên nền dark */
+    }
+
+/* Đổi màu chữ trong nút khi ở Dark Mode */
+body.dark-mode .btn {
+    color: #ffffff !important;
+}
+
+/* Đổi màu đường kẻ bảng để rõ ràng hơn */
+body.dark-mode .table th,
+body.dark-mode .table td {
+    border-color: #444 !important; /* Đường kẻ màu xám đậm */
+}

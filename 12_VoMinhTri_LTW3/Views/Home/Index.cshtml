@@ -1,0 +1,55 @@
+﻿@model IEnumerable<_12_VoMinhTri_LTW3.Models.Product>
+
+<h2>Products</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No products available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Category</th>
+                <th>Ảnh</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price.ToString("N0") đ</td> 
+                    <td>@product.Description</td>
+                    <td>@(product.Category?.Name ?? "No Category")</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(product.ImageUrl))
+                        {
+                            <img src="@product.ImageUrl" alt="Ảnh sản phẩm" style="max-width: 100px; height: auto;" />
+                        }
+                        else
+                        {
+                            <span>Không có ảnh</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Display" asp-route-id="@product.Id" class="btn btn-primary btn-sm">
+                            <i class="bi bi-eye"></i> View
+                        </a>
+                        <a asp-controller="Product" asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Edit
+                        </a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
